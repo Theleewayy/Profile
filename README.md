@@ -1,6 +1,5 @@
-Awesome! Since you confirmed with "Yes," I’ll create a polished “About Me” section for your GitHub profile README, combining the information you provided.
 
-````markdown name=README.md
+
 # Hi there 👋
 
 I'm an undergraduate Software Engineering student passionate about building impactful applications and constantly learning new technologies.
